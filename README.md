@@ -142,16 +142,6 @@ mut_dms/
 - Role-based access control prevents unauthorised page access
 
 ---
-
-## 👩‍💻 Author
-
-**Rahab Mercy Muthoni Mukuria**  
-Bachelor of Business and Information Technology (BBIT)  
-Murang'a University of Technology  
-Graduation: August 2025
-
----
-
 ## 📄 License
 
 This project was developed for academic purposes at Murang'a University of Technology.
